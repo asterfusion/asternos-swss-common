@@ -42,4 +42,14 @@ stamp-h1
 common/swssloglevel
 tests/tests
 
-
+autom4te.cache/
+config.h.in~
+debian/.debhelper/
+debian/autoreconf.after
+debian/autoreconf.before
+debian/debhelper-build-stamp
+debian/libswsscommon-dbg.substvars
+debian/libswsscommon-dbg/
+debian/python-swsscommon.substvars
+debian/python-swsscommon/
+m4/
